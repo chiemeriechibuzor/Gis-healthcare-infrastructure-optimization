@@ -1,0 +1,30 @@
+# QGIS temporary and lock files
+*.qgz.local
+*.qgs.local
+.qgis*/
+*.qgd
+*.lock
+
+# Shapefile spatial index backups and locks
+*.shp.xml
+*.shx.xml
+*.idx
+*.sbx
+
+# Esri/ArcGIS temporary files
+*.lock
+.gdb/
+*.rrd
+*.aux
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Data folders (uncomment the line below if your raw shapefiles are too large for GitHub)
+# data/raw/
