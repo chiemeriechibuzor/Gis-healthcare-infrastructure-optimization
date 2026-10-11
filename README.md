@@ -3,7 +3,6 @@
 > A QGIS proximity analysis using GRID3 spatial data to optimize primary healthcare facility infrastructure and funding allocations across Nasarawa State, Nigeria.
 
 [![QGIS Project](https://shields.io)](https://github.com/chiemeriechibuzor/Gis-healthcare-infrastructure-optimization/blob/2b7509e5706473a0c0d8c935021995385a78521f/HealthFacNasarawa.qgz)
-[![License: MIT](https://shields.io)](LICENSE)
 
 
 # 🗺️ nasarawa-health-proximity-analysis
@@ -84,7 +83,7 @@ The analysis successfully isolated specific electoral and administrative wards w
 * **Placement Engine:** Configured dynamic labels using the administrative Ward names associated with each target health center point. This ensures instant readability for policymakers review teams without needing to query back-end attribute tables manually.
 
 ```markdown
-![Nasarawa Health Proximity Map](images/MapFinalimage.png)
+![Nasarawa Health Proximity Map](MapFinalimage.png)
 *Figure 1: Final cartographic output showcasing Primary Healthcare Facilities within a 5km buffer zone of primary transit infrastructure in Nasarawa State, dynamically labeled by Administrative Ward.*
 ```
 
