@@ -73,10 +73,10 @@ The analysis successfully isolated specific electoral and administrative wards w
 * **Label Formatting:** Leveraged the layer property configuration engine to turn on vector labeling. 
 * **Placement Engine:** Configured dynamic labels using the administrative Ward names associated with each target health center point. This ensures instant readability for policymakers review teams without needing to query back-end attribute tables manually.
 
-```markdown
+
 ![Nasarawa Health Proximity Map](MapFinalimage.png)
 *Figure 1: Final cartographic output showcasing Primary Healthcare Facilities within a 5km buffer zone of primary transit infrastructure in Nasarawa State, dynamically labeled by Administrative Ward.*
-```
+
 
 ## 🌍 6. Governance and Socio-Economic Impact
 
